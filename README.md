@@ -29,11 +29,11 @@ Through utilizing <a href="https://developers.google.com/apps-script/guides/trig
 4. Set up a free <a href="www.heroku.com">Heroku</a> account and follow the github repo installation steps.
 
 5. On heroku, go to the deploy tab and manually deploy the application.
-<br>
+
 6. Press ```Open App``` on heroku to view your server.
-<br>
+
 7. Press More, and View logs on your main heroku screen, you should see ```Hello``` printed each time you access the site.
-<br>
+
 8. Go onto your Google Sheet, naviate to Tools, and script editor. Paste:
     ```diff
     function edit(){
