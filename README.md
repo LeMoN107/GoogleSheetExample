@@ -41,3 +41,10 @@ Through utilizing <a href="https://developers.google.com/apps-script/guides/trig
     }
     ```
 9. Then access the ```triggers``` section on the left side of the Script Editor and run ```edit()``` on the function ```onEdit()```
+
+#### Debugging Google Script Editor
+* A number of problems may arise if one of the steps detailed above is not completed correctly, as a result, on the script editor make sure to view the console or logger to see error messages
+
+#### Contact me for errors
+* Discord: LeMoN#8989
+* Email: lemon107gaming@gmail.com
